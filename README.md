@@ -1,2 +1,2 @@
 # Matrix-Transformations
-Project 2 of CS252 - Mathematical Data Analysis and Visualization. 
+Project 2 of CS252 - Mathematical Data Analysis and Visualization. The goal of this project is to give you practice using matrix multiplication to efficiently transform data (translation, scaling, and rotation). To that end, you'll develop the Transformation class as a child class of Analysis, from Project 1. You will do detective work: find the transformations that generate certain plots of Iris and uncover hidden letters in a 3D dataset.
